@@ -13,6 +13,7 @@ def hello():
     <body>
         <a href='http://localhost/abc'> 첫번째 과제 </a>
     </body>
+    </html>
     '''
 @app.route('/abc')
 def abc():
